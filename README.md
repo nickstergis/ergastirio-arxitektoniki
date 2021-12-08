@@ -1,5 +1,7 @@
 # ergastirio-arxitektoniki
 στεργης νικολαος
+
+
 Question 1.
 
 CPU type: atomic,minor,hpi
