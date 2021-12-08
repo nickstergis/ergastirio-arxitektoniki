@@ -34,6 +34,8 @@ change the command
 
 parser.add_argument("--cpu-freq", type=str, default="4GHz")
 
+
+
 Question 2.
 
 sim_seconds: Number of seconds simulated
@@ -53,6 +55,8 @@ system.cpu_cluster.cpus.dcache.overall_misses::total: 179
 
 system.cpu_cluster.cpus.icache.overall_misses::total: 332
 ( number of overall misses )
+
+
 Question 4.
 
 Some in-order CPUs used by gem5 are:
