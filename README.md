@@ -43,7 +43,9 @@ sim_seconds: Number of seconds simulated
 sim_ints: Number of executed instructions during simulation (commited by the CPU)
 
 host_inst_rate: Number of instructions that would be executed per second (performance of gem5)
-Question 3.
+
+
+Question 3
 
 total instructions: 5028
 
