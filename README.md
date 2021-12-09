@@ -1,8 +1,8 @@
 # ergastirio-arxitektoniki
-στεργης νικολαος
+στεργης νικολαος Α.Ε.Μ 8292
 
 
-Question 1.
+ΕΡΩΤΗΣΗ 1.
 
 CPU type: atomic,minor,hpi
 
@@ -36,7 +36,7 @@ parser.add_argument("--cpu-freq", type=str, default="4GHz")
 
 
 
-Question 2.
+ΕΡΩΤΗΣΗ 2.
 
 sim_seconds: Number of seconds simulated
 
@@ -45,7 +45,7 @@ sim_ints: Number of executed instructions during simulation (commited by the CPU
 host_inst_rate: Number of instructions that would be executed per second (performance of gem5)
 
 
-Question 3
+ΕΡΩΤΗΣΗ 3
 
 total instructions: 5028
 
@@ -59,7 +59,7 @@ system.cpu_cluster.cpus.icache.overall_misses::total: 332
 ( number of overall misses )
 
 
-Question 4.
+ΕΡΩΤΗΣΗ 4.
 
 Some in-order CPUs used by gem5 are:
 
